@@ -2,6 +2,6 @@
 
 ## Tableau Dashboard
 
-### [Project 4: Tableau Dashboard](https://public.tableau.com/views/Project4ChicagoCrimesDashboard/MainDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+### [Project 4: Tableau Dashboard](https://public.tableau.com/app/profile/medha.patel/viz/Project4ChicagoCrimesDashboard/MainDashboard?publish=yes)
 
 ![](Images/Main_Dashboard.png)
